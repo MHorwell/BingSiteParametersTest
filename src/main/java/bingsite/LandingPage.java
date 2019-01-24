@@ -17,7 +17,6 @@ public class LandingPage {
 	
 	public void submit() {
 		sendQuery.click();
-		//wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath("/html/body/div[1]/ol[1]/li[14]/nav")))
 	}
 
 }
