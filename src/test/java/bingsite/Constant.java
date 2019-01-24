@@ -1,8 +1,6 @@
 package bingsite;
 
 public class Constant {
-
-	public static final String URL = "http://www.practiceselenium.com/";
 	
 	public static final String FIREFOXDRIVER = "geckodriver.exe";
 	

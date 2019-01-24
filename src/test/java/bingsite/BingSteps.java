@@ -40,6 +40,7 @@ public class BingSteps {
 	@After
 	public void tearDown() {
 		driver.quit();
+		TestRunner.report.endTest(test);
 	}
 
 	
